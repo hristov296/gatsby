@@ -58,7 +58,7 @@ const STALL_RETRY_LIMIT = 3
 const STALL_TIMEOUT = 30000
 
 const CONNECTION_RETRY_LIMIT = 5
-const CONNECTION_TIMEOUT = 30000
+const CONNECTION_TIMEOUT = 300000
 
 /********************
  * Queue Management *
